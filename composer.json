@@ -1,8 +1,8 @@
 {
     "name":         "libra/jquery-assets",
-    "type":         "library",
-    "description":  "jQuery assets for Libra CMS",
-    "keywords":     ["libra", "jquery", "assets"],
+    "type":         "asset-aware",
+    "description":  "jQuery assets for frameworks",
+    "keywords":     ["jquery", "assets", "zf2"],
     "homepage":     "http://www.ejoom.com/libra-cms/",
     "license":      "BSD-3-Clause",
     "authors": [
