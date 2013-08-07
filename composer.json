@@ -3,20 +3,13 @@
     "type":         "asset-aware",
     "description":  "jQuery assets for frameworks",
     "keywords":     ["jquery", "assets", "zf2"],
-    "homepage":     "http://www.ejoom.com/libra-cms/",
+    "homepage":     "http://jquery.com",
     "license":      "BSD-3-Clause",
     "authors": [
         {"name": "Vitalii Nagara", "email": "duke@ejoom.com", "role": "maintainer, developer", "homepage": ""}
     ],
 
     "require": {
-    },
-
-    "require-dev": {
-        
-    },
-
-    "provide": {
-      
+        "libra/libra-assets-installer": "~2.0.0"
     }
 }
